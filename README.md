@@ -1,7 +1,7 @@
 # Generated Reports
 
 Published output from
-[autocare-data-pipeline](https://github.com/PrimeAutocare/autocare-data-pipeline).
+[Reporting_Automation](https://github.com/PrimeAutocare/Reporting_Automation).
 
 **Nothing here is written by hand.** Every file is produced by the `Reports`
 workflow in that repository and committed by its GitHub App. To change what a
