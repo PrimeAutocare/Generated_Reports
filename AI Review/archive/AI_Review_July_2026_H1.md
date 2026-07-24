@@ -2,80 +2,80 @@
 
 - **Period:** July 2026 H1
 - **Model:** gemini-flash-latest
-- **Generated (UTC):** 2026-07-23 08:16:38
+- **Generated (UTC):** 2026-07-23 08:54:09
 - **Source reports:** Payroll, Utilization, Receivables, Revenue, WIP, Attendance
 
 ---
 
-# PrimeAutocare Fortnightly Operational Review
-**Period:** July 2026 H1 (2026-07-01 to 2026-07-14)
+## Executive Summary
 
----
+PrimeAutocare generated 834,356.16 in revenue across 59 completed jobs during H1 July 2026, but cash conversion is constrained by 448,800.81 in outstanding receivables across 47 active invoices, reflecting a modest 68.1% collection rate. Labor efficiency exhibits extreme imbalance, as 29 staff members recorded 1,710.90 attendance hours while technicians logged only 196.90 billable job hours, driving direct completed job payroll to 378,473.87 (45.36% of revenue) alongside three fully idle technicians. Operations are further encumbered by 23 open WIP jobs—13 in-progress averaging 10.2 days open and 10 pending—including two stalled pending jobs open up to 20 days (JB0002) and data gaps in customer records. Addressing these operational vulnerabilities requires enforcing intake data completeness, accelerating debt collection, and aligning shift scheduling with active workshop floor throughput.
 
-### Executive Summary
-PrimeAutocare suffers from severe workshop productivity bottlenecks, weak credit collection controls, and critical customer data gaps. Despite paying for 1,710.90 attendance hours across 29 employees, technicians logged only 196.90 billable job hours, resulting in an effective labor billable utilization rate of just 13.53% among workshop technical staff. This labor drag is exacerbated by open jobs sitting idle for up to 20 days in Work-In-Progress (WIP), even while multiple technicians remain completely unassigned. Concurrently, credit risk is escalating rapidly: outstanding receivables stand at $448,800.81 (a 68.1% collection rate), with $95,266.43 owed by anonymous customer records and over $165,000 concentrated among just four repeat accounts.
+## Financial Review
 
----
+As a financial expert evaluating PrimeAutocare's H1 July 2026 reporting, the workshop demonstrates strong revenue generation potential but faces underlying margin pressure and substantial collections exposure. Revenue for completed work during the period totaled 834,356.16 across 59 completed jobs and 18 customer accounts (with 3 cancellations). The top revenue-generating service lines were Annual Service Inspection (JO0025) at 81,133.33 across 5 jobs (average cost 16,226.67 per job) and Wheel Alignment (JO0003) at 79,148.98 across 6 jobs (average cost 13,191.50 per job). 
 
-### Key Operational Findings
+Revenue concentration and billing risk are heavily skewed by unassigned customer records. An anonymous customer entry represents 207,540.76 (24.87% of total revenue) across 13 completed jobs and 5 vehicles. Combined with the largest named customer, Paul Green (CU0035, who generated 118,110.83 across 8 jobs), two customer profiles represent 325,651.59, or 39.03% of total workshop revenue.
 
-#### 1. Labor Utilization & Capacity Realization
-* **Extreme Unbilled Attendance Hours:** Total workshop attendance reached 1,710.90 hours across 214 shifts, but only 196.90 hours were logged on billable completed or in-progress work. Excluding administrative personnel (EM0017: 66.77 hrs, EM0027: 59.39 hrs) and supervisory attendance (EM0019: 61.99 hrs, EM0028: 68.13 hrs), the 25 technicians clocked 1,454.62 attendance hours, achieving a billable efficiency of only **13.53%**.
-* **Zero-Output Technicians:** Three full-time technicians logged zero billable hours during the fortnight despite clocking full attendance:
-  * **EM0008 (Angela Long):** 8 shifts, 66.96 attendance hours, $0 payroll, 0 jobs logged (Idle).
-  * **EM0001 (Jessica Mitchell):** 8 shifts, 60.20 attendance hours, $0 payroll, 0 jobs logged (Idle).
-  * **EM0005 (Cynthia Richardson):** 7 shifts, 56.95 attendance hours, $0 payroll, 0 jobs logged (Idle).
-  * *Combined impact:* 184.11 attendance hours paid in physical presence with zero completed output.
-* **Severe Billable Friction Among Clocked Techs:** Several active technicians logged less than 6% of their clocked shift time to jobs:
-  * **EM0003 (Richard Foster):** 65.46 attendance hours vs. 3.48 logged hours (5.3% efficiency; $5,720.98 pay).
-  * **EM0020 (Anthony Ward):** 59.47 attendance hours vs. 1.79 logged hours (3.0% efficiency; $3,105.24 pay).
-  * **EM0012 (Carol Murray):** 63.59 attendance hours vs. 1.84 logged hours (2.9% efficiency; $2,780.20 pay).
+From a cost structure perspective, direct completed job payroll expense reached 378,473.87 across 196.90 logged hours for 23 paid technicians. Direct technician labor consumed 45.36% of total period revenue (378,473.87 payroll / 834,356.16 revenue). Direct labor costs are inflated by high supervisory participation in routine jobs; supervisors Michelle Murphy (EM0019, rate 2,977.20/hr) and Ronald Carter (EM0028, rate 3,162.79/hr) accounted for 27,687.96 (9.30 job hours) and 25,808.37 (8.16 job hours) respectively—costing 53,496.33 in direct labor for just 17.46 logged job hours.
 
-#### 2. Work-in-Progress (WIP) & Workshop Bottlenecks
-* **Severe Job Stagnation (20-Day Aging):** 23 jobs remain open in WIP, with 13 in-progress jobs averaging 10.2 days open.
-  * **JB0001 (Mercedes A180):** In-progress for 20 days (created 2026-07-03) assigned to EM0018 (Michael Cook), who clocked 59.96 attendance hours but completed 0 jobs and logged 0.00 hours on this vehicle.
-  * **JB0009 (Honda CR-V):** In-progress for 20 days assigned to EM0020 (Anthony Ward), with 0.00 hours logged.
-  * **JB0020 (Mercedes GLA)** & **JB0022 (VW Tiguan):** Both in-progress for 17 days with 0.00 hours logged.
-* **Unassigned Stalled Jobs:** Two jobs marked as "Pending" have been stalled for over a week without any technician assigned, despite three technicians sitting completely idle in the workshop:
-  * **JB0002 (Kia Rio - Cabin Filter Replacement):** Pending for 20 days (created 2026-07-03), unassigned.
-  * **JB0075 (VW Tiguan - Timing Belt Replacement):** Pending for 8 days (created 2026-07-15), unassigned.
+Cash flow and working capital are exposed to collection friction. The Receivables snapshot as of 2026-07-23 indicates total billing of 1,406,146.13 across 102 non-void invoices, with 957,345.32 collected and 448,800.81 outstanding across 47 active invoices, yielding a collection rate of 68.1%. Although all 448,800.81 sits within the 0–30 day aging bucket, individual account balances present notable concentration risk. Major unpaid or partially paid receivables include IN0002 (Susan Peterson, 22,365.70 unpaid, age 20 days), IN0029 (Dorothy Jones, 22,895.60 unpaid, age 14 days), IN0065 (Susan Peterson, 23,598.22 unpaid, age 7 days), and IN0071 (Donald Mitchell, 20,014.22 unpaid, age 7 days). Furthermore, multiple unpaid invoices lack assigned customer IDs (e.g., IN0036 at 7,265.26 unpaid, IN0059 at 16,865.83 unpaid, IN0086 at 15,544.04 unpaid, and IN0091 at 20,211.81 unpaid), creating severe debt collection challenges. Payment method distribution shows Bank Transfer as the leading collection vehicle (301,964.50 across 26 payments), followed by Cash (243,711.78 across 23 payments), Cheque (241,626.94 across 19 payments), and Card (170,042.10 across 14 payments).
 
-#### 3. Customer Master Data Integrity & Anonymous Revenue
-* **Massive Unidentified Revenue Concentration:** The single largest customer entry in the Revenue report is **unnamed/blank** (no Customer ID or Name), generating **$207,540.76 across 13 completed jobs** — accounting for **24.87%** of total workshop revenue ($834,356.16).
-* **Uncollectible Anonymous Receivables:** 11 open invoices in the Receivables register have no associated Customer ID or Name, representing **$95,266.43** in outstanding balances (e.g., IN0091 for $20,211.81, IN0059 for $16,865.83, IN0086 for $15,544.04, IN0052 for $9,757.85). Without customer records, these debts cannot be legally enforced or collected.
-* **Incomplete WIP Intake:** 6 out of 23 open WIP jobs (JB0009, JB0072, JB0091, JB0119, JB0126, JB0131) lack Customer IDs and Names.
+## HR & Workforce Review
 
-#### 4. Receivables & Credit Concentration Risk
-* **Low Overall Collection Efficiency:** Total receivables outstanding sit at **$448,800.81** against $1,406,146.13 billed, yielding a low collection rate of **68.1%** across 47 uncollected invoices.
-* **Extreme Credit Exposure on Specific Accounts:**
-  * **CU0005 (Susan Peterson):** Billed $52,511.01 in H1 revenue, but holds **$57,930.47** in outstanding debt across 4 unpaid invoices (IN0002: $22,365.70 [20d old], IN0019: $9,475.33 [16d old], IN0065: $23,598.22 [7d old], IN0066: $2,491.22 [7d old]).
-  * **CU0027 (Paul Cox):** Billed $32,249.02 in H1 revenue, but holds **$46,442.92** in outstanding debt across 4 unpaid/partially paid invoices (IN0047: $7,492.53, IN0067: $15,486.81, IN0074: $11,517.71, IN0078: $11,945.87).
-  * **CU0021 (Kenneth Harris):** Owes **$31,470.79** across 4 open invoices (IN0004, IN0025, IN0068, IN0073).
-  * **CU0016 (Dorothy Jones):** Owes **$29,953.47** across 3 open invoices (IN0012, IN0029, IN0085).
-  * *Combined impact:* These 4 customers alone represent **$165,797.65** (36.9%) of all outstanding workshop receivables.
+From an HR and workforce management perspective, the data reveals a profound structural disconnect between employee attendance presence and billable job productivity. Attendance compliance across the business is high: 29 employees logged 214 total shifts and 1,710.90 attendance hours with zero missing clock-outs during H1 July 2026 (Admin User EM0030 recorded 0 attendance shifts). Top presence hours were clocked by supervisor Ronald Carter (EM0028: 68.13 hours, 8 shifts) and technician Angela Long (EM0008: 66.96 hours, 8 shifts).
 
-#### 5. Payroll Overhead & Supervisory Output
-* **High Average Effective Hourly Cost:** Total completed job payroll was $378,473.87 across 196.90 completed job hours, translating to an average labor payout of **$1,922.16 per logged billable hour**.
-* **Supervisory Cost vs. Floor Management:** Supervisors **EM0019 (Michelle Murphy)** at $2,977.20/hr ($27,687.96 pay) and **EM0028 (Ronald Carter)** at $3,162.79/hr ($25,808.37 pay) drew a combined **$53,496.33 in payroll** for 17.46 logged hours, yet failed to prevent 20-day WIP stalls or assign idle floor technicians.
+However, comparing attendance presence against logged work yields an extreme productivity deficit. While employees were present and paid for 1,710.90 attendance hours, technicians logged only 196.90 billable job hours in the Utilization report across completed and in-progress jobs—representing an overall shop billable efficiency ratio of just 11.51% (196.90 / 1,710.90). 
 
----
+Severe idle capacity exists within the workshop. Three technicians logged zero billable job hours during the entire fortnight despite maintaining full attendance:
+1. Angela Long (EM0008): 66.96 attendance hours across 8 shifts (0.00 job hours logged, Idle).
+2. Jessica Mitchell (EM0001): 60.20 attendance hours across 8 shifts (0.00 job hours logged, Idle).
+3. Cynthia Richardson (EM0005): 56.95 attendance hours across 7 shifts (0.00 job hours logged, Idle).
 
-### Prioritized Recommendations
+Together, these three idle employees were present on site for 184.11 paid hours without generating completed or in-progress billable output. Furthermore, technician Michael Cook (EM0018) clocked 59.96 attendance hours across 8 shifts but recorded 0.00 hours across 1 in-progress job (0.00% utilization share).
 
-1. **Immediate Reallocation of Idle Technicians to Stalled WIP (Operations)**
-   * **Action:** Direct supervisors EM0019 and EM0028 to immediately assign idle technicians (EM0008 Angela Long, EM0001 Jessica Mitchell, EM0005 Cynthia Richardson) to open pending jobs (JB0002, JB0075) and takeover stagnant 20-day in-progress jobs (JB0001, JB0009).
-   * **Target:** Clear all 9 WIP jobs aged >8 days within 48 hours.
+Workforce output is heavily concentrated in a small minority of personnel. Melissa Green (EM0015) was the primary driver of billable output, logging 22.27 job hours (1,131.00% relative share of workshop logged hours) across 7 completed jobs, earning 37,845.64 at a rate of 1,699.40/hr on 58.73 attendance hours (37.9% billable utilization). Conversely, several technicians logged nominal billable time against full attendance shifts:
+- Anthony Ward (EM0020): 59.47 attendance hours (7 shifts), logged 1.79 job hours (3.0% utilization), earning 3,105.24.
+- Carol Murray (EM0012): 63.59 attendance hours (8 shifts), logged 1.84 job hours (2.9% utilization), earning 2,780.20.
+- Richard Foster (EM0003): 65.46 attendance hours (8 shifts), logged 3.48 job hours (5.3% utilization), earning 5,720.98.
+- Steven Martin (EM0013): 57.63 attendance hours (7 shifts), logged 3.71 job hours (6.4% utilization), earning 8,215.98.
+- Rachel Bell (EM0029): 63.72 attendance hours (8 shifts), logged 3.61 job hours (5.7% utilization), earning 8,046.37.
+- Brenda Allen (EM0007): 60.00 attendance hours (8 shifts), logged 5.60 job hours (9.3% utilization), earning 9,408.73.
 
-2. **Enforce Mandatory Customer Data Capture at Job Intake (IT & Administration)**
-   * **Action:** Audit and update the Point-of-Sale / Postgres database schema to make `Customer ID`, `Name`, and `Phone Number` mandatory fields before any Job (JB) or Invoice (IN) can be saved or set to 'In-progress'.
-   * **Target:** Resolve and link missing customer profiles for the 13 unassigned revenue jobs ($207,540.76) and 6 open WIP jobs using vehicle registration matching.
+This pattern indicates severe overstaffing relative to logged work or widespread under-reporting of worked job hours into the shop management system.
 
-3. **Institute Credit Hold on Overdue Accounts (Finance & Credit Control)**
-   * **Action:** Implement an automatic credit stop on work orders for accounts with outstanding balances older than 10 days. Specifically freeze further vehicle releases/services for **CU0005 (Susan Peterson - $57,930.47 outstanding)** and **CU0027 (Paul Cox - $46,442.92 outstanding)** until aging invoices (IN0002, IN0019, IN0047) are settled.
+## Operations Review
 
-4. **Recover $95.2k in Anonymous Receivables (Finance)**
-   * **Action:** Cross-reference vehicle registration numbers on unassigned invoices (BAC-3608, KA-1128, CAR-9900, CAB-1960, QA-3532, PC-1685) against historical completed jobs and vehicle registration logs to attach responsible party names and send immediate debt collection notices for the $95,266.43 outstanding.
+From an operational standpoint, the WIP report (snapshot as of 2026-07-23) highlights floor bottlenecks, delayed job turnarounds, and data management flaws. There are currently 23 open jobs in the workshop floor system, divided into 13 In-progress jobs and 10 Pending jobs. Across all open jobs, 14 fall within the 0–7 day aging bucket, while 9 jobs are aged between 8 and 30 days.
 
-5. **Implement Shift-to-Job Time Tracking & Supervisory KPIs (Management)**
-   * **Action:** Transition from job-only hour logging to clock-in/clock-out job tracking. Require floor supervisors (EM0019, EM0028) to review daily unbilled labor hours per technician.
-   * **Target:** Raise technician billable utilization from 13.53% to a benchmark minimum of 65% by H2 July.
+Floor throughput is severely compromised by long-standing in-progress jobs and stalled pending items. In-progress jobs average 10.2 days open (with the longest open 20 days), while Pending jobs average 3.8 days open (longest open 20 days). Two jobs are formally identified as stalled pending items (>7 days pending):
+1. JB0002 (Kia Rio, KB-5351, Customer CU0021 Kenneth Harris, Cabin Filter Replacement): Pending for 20 days since 2026-07-03 with 0.00 hours logged and zero cost recorded.
+2. JB0075 (Volkswagen Tiguan, WP-3938, Customer CU0016 Dorothy Jones, Timing Belt Replacement): Pending for 8 days since 2026-07-15 with 0.00 hours logged.
+
+In addition, multiple active In-progress jobs have remained stagnant on the floor for extended periods without billable hours logged:
+- JB0001 (Mercedes A180, BAC-5616, Customer CU0017 Anthony Miller, Wheel Alignment, assigned to Michael Cook): In-progress for 20 days with 0.00 hours logged.
+- JB0009 (Honda CR-V, WP-1058, Coolant Flush and Refill, assigned to Anthony Ward): In-progress for 20 days with 0.00 hours logged.
+- JB0020 (Mercedes GLA, CAB-3851, Customer CU0001 Margaret Scott, Wheel Alignment, assigned to Amy Price): In-progress for 17 days with 0.00 hours logged.
+- JB0022 (Volkswagen Tiguan, WP-3938, Customer CU0016 Dorothy Jones, Engine Oil & Filter Change, assigned to Ronald Carter): In-progress for 17 days with 0.00 hours logged.
+
+Operational governance is impaired by missing customer identification. Out of 23 open WIP jobs, 6 jobs lack associated customer IDs and customer names (JB0009, JB0072, JB0091, JB0119, JB0126, JB0131), preventing customer notifications upon job completion. Finally, service offerings show uneven operational uptake: out of 30 cataloged service types, 4 recorded zero completed jobs during H1 July 2026 (JO0019 AC Compressor Repair, JO0005 Brake Disc Skimming, JO0012 Transmission Fluid Service, and JO0007 Air Filter Replacement), though Transmission Fluid Service currently has 1 job in progress (JB0079, 7 days open, assigned to Sharon Morris).
+
+## Recommendations
+
+1. **Enforce Customer Intake Governance & Collections Workflows** (Financial)
+   - Implement mandatory front-desk controls requiring valid Customer IDs and contact profiles before creating work orders (resolving 207,540.76 in unassigned revenue and 6 unlinked WIP jobs).
+   - Establish a dedicated debt collection workflow targeting the 448,800.81 outstanding balance across 47 active invoices (currently at a 68.1% collection rate), prioritizing high-value uncollected invoices including IN0002 (22,365.70), IN0029 (22,895.60), and IN0065 (23,598.22).
+
+2. **Establish Real-Time Job Time Logging & Work Reallocation** (HR)
+   - Implement real-time floor job-card scanning to bridge the deficit between 1,710.90 attendance hours and 196.90 billable job hours (11.51% efficiency).
+   - Immediately reallocate open WIP tasks to fully idle technicians who logged 0 job hours despite full attendance shifts: Angela Long (EM0008, 66.96 attendance hrs), Jessica Mitchell (EM0001, 60.20 attendance hrs), and Cynthia Richardson (EM0005, 56.95 attendance hrs).
+
+3. **Triage Stalled WIP and Enforce Service SLAs** (Operations)
+   - Immediately clear long-pending stalled jobs—specifically JB0002 (Cabin Filter Replacement, pending 20 days) and JB0075 (Timing Belt Replacement, pending 8 days)—and resolve long-standing in-progress jobs open up to 20 days (JB0001 and JB0009).
+   - Establish maximum turnaround SLAs by service type to lower the current 10.2-day average in-progress turnaround time and prevent floor bottlenecks.
+
+4. **Optimize Supervisory Labor Allocation** (Financial)
+   - Restrict high-cost supervisors (Michelle Murphy at 2,977.20/hr and Ronald Carter at 3,162.79/hr) from logging routine direct service hours (which cost 53,496.33 for 17.46 hours) and reassign routine maintenance to standard technicians to reduce direct payroll margin pressure (currently 45.36% of revenue).
+
+5. **Re-align Shift Staffing Levels with Active Workshop Volume** (HR)
+   - Restructure shift rosters to match actual work demand, mitigating low utilization among technicians present for full shifts but logging minimal job hours, such as Anthony Ward (EM0020: 59.47 attendance hrs vs 1.79 job hrs) and Carol Murray (EM0012: 63.59 attendance hrs vs 1.84 job hrs).
